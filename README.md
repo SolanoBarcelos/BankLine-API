@@ -2,15 +2,17 @@
 
 ## API REST 
 
-##### Projeto Back End de API Rest com mentodos GET e POST de Correntistas e Movimentações de saldos em contas.
+###### Projeto Back End de API Rest com métodos GET e POST de Correntistas e Movimentações de saldos em contas; feito em JAVA com framework Spring, com persistência de dados e PostgreSQL.
 
 
 
-##### Utilização de dependências do Spring: Spring Boot | PostgresSQL Driver | Spring Data JPA | Spring WEB | Spring Swagger.
+###### Utilização de dependências do Spring: Spring Boot | PostgresSQL Driver | Spring Data JPA | Spring WEB | Spring Swagger.
 
 
 
-###### Tecnologias Utilizadas: 
+##### Tecnologias Utilizadas:
+
+
 
 <div style="display: inline_block"><br> 
 
