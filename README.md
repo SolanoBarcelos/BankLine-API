@@ -4,6 +4,8 @@
 
 ##### Projeto Back End de API Rest com mentodos GET e POST de Correntistas e Movimentações de saldos em contas.
 
+
+
 ##### Utilização de dependências do Spring: Spring Boot | PostgresSQL Driver | Spring Data JPA | Spring WEB | Spring Swagger.
 
 
